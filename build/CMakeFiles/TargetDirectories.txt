@@ -1,0 +1,3 @@
+C:/Users/Jacob Cohen/Desktop/Github_Projects/EnglishCaseLawScraper/build/CMakeFiles/main.dir
+C:/Users/Jacob Cohen/Desktop/Github_Projects/EnglishCaseLawScraper/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jacob Cohen/Desktop/Github_Projects/EnglishCaseLawScraper/build/CMakeFiles/ZERO_CHECK.dir

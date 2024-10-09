@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jacob Cohen\Desktop\Github_Projects\EnglishCaseLawScraper\build\CMakeFiles\3ed82fe1993efee3825b20c3a99239cd\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3C419EDF-779A-301D-BEDC-CA3B6B353590}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
